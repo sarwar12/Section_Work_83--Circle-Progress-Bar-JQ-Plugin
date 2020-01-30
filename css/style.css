@@ -1,0 +1,47 @@
+/* Main CSS Start */
+*{
+	margin: 0;
+	padding: 0;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+body{
+	font-family: ;
+}
+h1,h2,h3,h4,h5,h6{
+	margin: 0 0 15px;
+	font-weight: 700;
+}
+a:hover{
+	text-decoration: none;
+}
+/* Main CSS Stop */
+/* Circle Progress Bar Section Start */
+.section-padding {
+  padding: 100px 0;
+}
+.section-title {
+  margin-bottom: 50px;
+}
+.single-circle-progressbar {
+  text-align: center;
+}
+.circle-progressbar-wrapper {
+  position: relative;
+  margin-bottom: 20px;
+}
+#web-design-progressbar {
+}
+.progressbar-percentage {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  line-height: 40px;
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: -20px;
+}
+/* Circle Progress Bar Section Stop */

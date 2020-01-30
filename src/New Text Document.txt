@@ -1,0 +1,2 @@
+### Circle ProgressBar jquery Plugin:
+	https://kottenator.github.io/jquery-circle-progress/
